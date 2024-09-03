@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...coding
 - 📫 How to reach me ...@Tanja-Franke
-- 😄 Pronouns: ...female
+- 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I´m not very funny ;)
 
 <!---
